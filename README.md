@@ -1,6 +1,6 @@
-# TruthCheck - Media Authenticity & Deepfake Detection Platform
+# VerifyIQ - Media Authenticity & Deepfake Detection Platform
 
-TruthCheck is a full-stack application designed to combat misinformation by analyzing media files and news articles for authenticity. It leverages AI deepfake detection (Mock/Deepware) and Fact-Checking APIs (Mock/Google).
+VerifyIQ is a full-stack application designed to combat misinformation by analyzing media files and news articles for authenticity. It leverages AI deepfake detection (Mock/Deepware) and Fact-Checking APIs (Mock/Google).
 
 ## Tech Stack
 - **Frontend**: React.js (Vite), Tailwind CSS
